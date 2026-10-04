@@ -1,7 +1,7 @@
 # ContactHubPro
 **A responsive, browser-based contact management application built with vanilla JavaScript, Bootstrap, and LocalStorage.**
 
-**[Live Demo](https://shalabycode.dev/contuctHubApp/)** · **[Source](https://github.com/Shalabyelectronics/contuctHubApp)**
+**[Live Demo](https://shalabycode.dev/contact-hub/)** · **[Source](https://github.com/Shalabyelectronics/contact-hub)**
 
 ![ContactHubPro screenshot](docs/screenshot.png)
 
@@ -35,15 +35,15 @@ ContactHubPro is a client-side address book and contact management tool running 
 Clone the repository and launch the project directly:
 
 ```bash
-git clone https://github.com/Shalabyelectronics/contuctHubApp.git
-cd contuctHubApp
+git clone https://github.com/Shalabyelectronics/contact-hub.git
+cd contact-hub
 ```
 
 Open `index.html` in any modern web browser or serve it using the VS Code Live Server extension.
 
 ## Project Structure
 ```text
-contuctHubApp/
+contact-hub/
 ├── css/
 │   ├── bootstrap.min.css
 │   └── style.css
